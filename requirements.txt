@@ -1,0 +1,4 @@
+label-studio==1.15.0
+pdf2image
+oci
+label-studio-ml
